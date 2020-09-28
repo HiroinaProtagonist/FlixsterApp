@@ -26,3 +26,5 @@ GIF created with [Recordit](https://recordit.co/). GIF converted with [Ezgif](ht
 Describe any challenges encountered while building the app.
 
 It's likely because I'm not yet comfortable with the interface, but Xcode/Swift seems very fragile, especially around renaming project members. It's a little frustrating to track down all of the references or be very good about planning naming conventions.
+
+It's too easy to forget to use only the workspace after adding Cocoapods. Again, probably just a rookie mistake, but I had to remove and reinitialize/reinstall pods because I wasn't sure how to repair a dependency. It seems to have worked though.
