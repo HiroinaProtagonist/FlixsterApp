@@ -16,11 +16,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
-<img src="https://github.com/HiroinaProtagonist/FlixsterApp/blob/main/????????????_ezgif.gif?raw=true" title="Unit 1 Video Walkthrough" alt="Unit 1 Video Walkthrough" width="250px"/><br>
+<img src="https://github.com/HiroinaProtagonist/FlixsterApp/blob/main/????????????_ezgif.gif?raw=true" title="Unit 2 Video Walkthrough" alt="Unit 2 Video Walkthrough" width="250px"/><br>
 GIF created with [Recordit](https://recordit.co/). GIF converted with [Ezgif](https://ezgif.com/video-to-gif).
-
-
-<img src="YOUR_GIF_URL_HERE" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
